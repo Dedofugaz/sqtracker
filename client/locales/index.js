@@ -6,6 +6,7 @@ import zh from "./zh.json";
 import eo from "./eo.json";
 import fr from "./fr.json";
 import it from "./it.json";
+import ca from "./ca.json";
 
 export default {
   en,
@@ -16,4 +17,5 @@ export default {
   zh,
   eo,
   fr,
+  ca,
 };

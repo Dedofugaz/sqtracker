@@ -97,7 +97,7 @@
   "indexSearch": "Cerca",
   "indexSearchTorrents": "Cerca torrents",
   "indexText1": "La vostra adreça electrònica encara no s'ha verificat. No podreu penjar ni descarregar cap dada fins que no ho feu.",
-  "indexTime": "HH:mm Do MMM YYYY",
+  "indexTime": "HH:mm DD MM YYYY",
   "listNoItemShow": "No hi ha elements per mostrar.",
   "logIn": "Inicia la sessió",
   "logInFailed": "No s'ha pogut iniciar la sessió",
